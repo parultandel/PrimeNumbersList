@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PrimeNumbersList</string>
+    <string name="option_one">DisplayPrimeList</string>
+    <string name="option_two">DisplayPrimeNo</string>
+
+    <!--Dialogbox Hint String-->
+    <string name="dialogbox_hint">Enter the number greater than Zero</string>
+    <!--Error Message for NumberFormate Exception-->
+    <string name="invalid_number">Invalid Number,Please reinsert the number</string>
+
+    <!--Input String-->
+    <string name="input_string">Enter any number greater than Zero</string>
+
+    <!--Button Search Text-->
+    <string name="button_serach">Search</string>
+
+    <!--Prime List-->
+    <string name="prime_list">Prime List</string>
+
+    <!--Prime Number-->
+    <string name="prime_number"> Prime Number: </string>
+
+</resources>
